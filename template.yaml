@@ -41,11 +41,6 @@ tasks:
     src: "https://github.com/Blumlaut/EasyAdmin"
   - 
     action: download_github
-    dest: ./resources/async
-    ref: e7b778f0c7236132596e98d8ebd33e1127dbb4c4
-    src: "https://github.com/smellyindianbelly/async"
-  - 
-    action: download_github
     dest: ./resources/mysql-async
     ref: c5fa317a65acfe2eef453257e19e3b4fde137089
     src: "https://github.com/brouznouf/fivem-mysql-async"
